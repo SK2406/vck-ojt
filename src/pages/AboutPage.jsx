@@ -6,7 +6,7 @@ const   AboutPage = () => {
 
         <div  className="page-container" style={{ overflow: "auto" }}>
         
-            <h1>About Vivekanad College</h1>
+            <h1 style={{color:"#007BFF"}} className="about-page">About Vivekanad College</h1>
             <p>
               Vivekanand College stands as a beacon of knowledge and integrity,
                committed to delivering transformative education since its inception in [Year of Establishment, e.g., 1980]. 

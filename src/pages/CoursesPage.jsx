@@ -56,7 +56,8 @@ const   CoursesPage = () => {
       </li>      
      </ul>    
      
-     <h2>Program Details & Fee Structure (Annual)</h2>  
+     <h2>Program Details & Fee Structure (Annual)</h2>
+     <div class="table-scroll">  
            <table border="1" className="admissions-table  ">
     <tbody>        
     <tr>
@@ -89,6 +90,7 @@ const   CoursesPage = () => {
     </tr>
    </tbody>    
   </table>
+  </div>
     <h2>Specialized & Vocational Courses</h2>   
    <p>In addition to traditional degree programs, we offer various certificate and diploma courses in areas like Digital Marketing,
       Web Development, Data Analytics, and Soft Skills Development, providing specialized training for career enhancement.</p>

@@ -9,6 +9,7 @@ const   AdmissionPage = () => {
                    <p>Please review the eligibility criteria and key dates below for the upcoming academic year. For any queries,
                      feel free to contact our admissions office.</p>
         <h2>Eligibility Criteria for Undergraduate Programs</h2>
+        <div class="table-scroll">
           <table border="1" className="admissions-table">
         <tbody>
           <tr>
@@ -37,6 +38,7 @@ const   AdmissionPage = () => {
           </tr>
        </tbody>
       </table>
+      </div>
 
 
               <h2>Application Process</h2>
